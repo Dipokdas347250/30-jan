@@ -1,0 +1,386 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+ul{
+    list-style: none;
+    
+}
+/* nav part start */
+#navbar{
+    background-color: #1C1E53;
+}
+.menu_bg ul li{
+    padding: 0 10px;
+}
+.menu_bg ul li a{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color: #BBBBCB !important;
+    font-style: normal;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.menu_bg ul li a:hover{
+    color: #FCD980 !important;
+}
+.menu_bg ul li:first-child a{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color: #fff !important;
+    font-style: normal;
+}
+.menu_bg .one{
+    height: 60px;
+    width: 185px;
+    border: 2px solid #BBBBCB;
+    border-radius: 41px;
+    -webkit-border-radius: 41px;
+    -moz-border-radius: 41px;
+    -ms-border-radius: 41px;
+    -o-border-radius: 41px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.menu_bg .one:hover{
+    background-color: #FCD980;
+}
+.menu_bg .one a{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color: #BBBBCB;
+    font-style: normal;
+    line-height: 60px;
+    margin-left: 45px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.menu_bg .one a:hover{
+    color: #1B1C2B;
+}
+/* nav part end */
+
+/* study part start */
+#study{
+    padding-top: 128px;
+    padding-bottom: 128px;
+    background-color: #fff;
+}
+.study_part .study_on{
+    height: 172px;
+    width: 949px;
+}
+.study_part .study_on h2{
+    font-size: 48px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 64px;
+    text-align: center;
+}
+.study_part .study_on h5{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 28px;
+    text-align: center;
+}
+.study_part .study_img img{
+    width: 100%;
+    margin-top: 48px;
+}
+.study_part .study_item h2{
+    margin-top: 48px;
+    font-size: 38px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 56px;
+   
+}
+.study_part .study_item p{
+    margin-top: 32px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 28px;
+   
+}
+.study_part .study_item01 i{
+    font-size: 12px;
+}
+.study_part .study_item01 a{
+    margin-top: 32px;
+    margin-top: 32px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    color: #282938;
+    font-style: normal;
+    line-height: 28px;
+}
+.study_part .study_img01 img{
+    width: 100%;
+}
+/* study part end */
+
+/* Lets part start */
+#lets{
+    padding-top: 100px;
+    background-color: #1C1E53;
+}
+.lets_logo p{
+    
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    line-height: 28px;
+    margin-top: 50px;
+}
+.lets_logo h2{
+    
+    color: #fff;
+    font-size: 48px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    line-height: 64px;
+    
+}
+.lets_logo span{
+    
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    line-height: 28px;
+    margin-top: 40px;
+}
+.lets_logo a{
+    padding: 0 20px;
+    margin-top: 50px;
+    margin-left: -10px;
+    color: #fff;
+    font-size: 16px;
+}
+.lets_main{
+    height: 95px;
+    width: 517px;
+    background-color: #FCD980;
+}
+.lets_main .lets_one{
+   margin-top: 20px;
+   margin-left: 20px;
+}
+.lets_main .lets_one h4{
+    
+    color: #282938;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    line-height: 32px;
+}
+.lets_main .lets_one h5{
+    
+    color: #282938;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    line-height: 28px;
+}
+.lets_main .lets_two{
+    margin-top: 20px;
+    margin-left: 20px;
+ }
+ .lets_main .lets_two h4{
+    
+    color: #282938;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    line-height: 32px;
+}
+.lets_main .lets_two h5{
+    
+    color: #282938;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    line-height: 28px;
+}
+/* Lets part end */
+/* last manu part start  */
+#manu{
+    padding-top: 32px;
+    padding-bottom: 32px;
+    background-color: #fff;
+}
+.manu_text h3{
+    height: 28px;
+    width: 241px;
+    color: #282938;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    line-height: 28px;
+}
+.manu_item ul li{
+    display: inline-block;
+}
+.manu_item ul li a{
+    padding: 0 10px;
+    color: #282938;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    line-height: 28px;
+   
+}
+.manu_item ul li a:hover{
+    color: #FCD980;
+}
+/* last manu part   */
+@media(max-width:575px){
+    .menu_bg ul{
+        text-align: center;
+        background-color:#1C1E53;
+        padding: 0 20px;
+    }
+    .menu_bg .one{
+        background-color: #1C1E53;
+        margin-left: 164px;
+        
+    }
+    .study_part .study_on h2 {
+        width: 450px;
+        font-size: 38px;
+        line-height: 53px;
+    }
+    
+    .study_part .study_on h5 {
+        width: 500px;
+    }
+    .study_part .study_img img {
+        width: 80%;
+        margin-top: 147px;
+    }
+    .study_part .study_item h2 {
+        width: 759px;
+    }
+    .study_part .study_item h2 {
+        width: 530px;
+    }
+    .study_part .study_item p{
+        width: 400px;
+    }
+    .study_part .study_item h2 {
+        width: 500px;
+    }
+    .study_part .study_item01 a{
+        width: 400px;
+    }
+    .study_part .study_img01 img {
+        width: 80%;
+    }
+    .lets_main{
+        height: 95px;
+        width: 400px;
+        background-color: #FCD980;
+    }
+}
+
+@media(min-width:576px) and (max-width:767px){
+    .menu_bg ul{
+        text-align: center;
+        background-color:#1C1E53;
+        padding: 0 20px;
+    }
+    .menu_bg .one{
+        background-color: #1C1E53;
+        margin-left: 164px;
+        
+    }
+    .study_part .study_on h2 {
+        width: 450px;
+        font-size: 38px;
+        line-height: 53px;
+    }
+    .study_part .study_on h5 {
+        width: 500px;
+    }
+    .study_part .study_img img {
+        width: 80%;
+        margin-top: 147px;
+    }
+    .study_part .study_item h2 {
+        width: 759px;
+    }
+    .study_part .study_item h2 {
+        width: 530px;
+    }
+    .study_part .study_item p{
+        width: 400px;
+    }
+    .study_part .study_item h2 {
+        width: 500px;
+    }
+    .study_part .study_item01 a{
+        width: 400px;
+    }
+    .study_part .study_img01 img {
+        width: 80%;
+    }
+    .lets_main{
+        height: 95px;
+        width: 400px;
+        background-color: #FCD980;
+    }
+}
+
+@media(min-width:768px) and (max-width:991px){
+    .menu_bg ul{
+        text-align: center;
+        background-color:#1C1E53;
+        padding: 0 20px;
+    }
+    .menu_bg .one{
+        background-color: #1C1E53;
+        margin-left: 258px;
+        
+    }
+    .benefits_logo img {
+        width: 100%;
+        margin-top: 30px;
+    }
+}
